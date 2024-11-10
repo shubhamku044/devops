@@ -10,7 +10,7 @@ SDLC and DevOps are connected through their shared focus on quality, speed, and 
 
 ## II. What is Software Development Life Cycle (SDLC)?
 
-[SDLC blog](./sdlc-steps.png)
+![SDLC blog](./sdlc-steps.png)
 
 ### A. Definition and importance
 
@@ -41,7 +41,7 @@ The implementation of SDLC in software development projects has become increasin
 
 ## III. The SDLC Phases in Detail
 
-[Sdlc step by step](./sdlc-step-by-step.jpg)
+![Sdlc step by step](./sdlc-step-by-step.jpg)
 
 ### A. Planning Phase
 
@@ -99,7 +99,7 @@ The Maintenance Phase ensures the software continues to perform optimally after 
 
 ## IV. DevOps Integration in SDLC
 
-[Devops in sdlc](./DevOps-Lifecycle.jpg)
+![Devops in sdlc](./DevOps-Lifecycle.jpg)
 
 ### A. Key focus areas for DevOps engineers
 
